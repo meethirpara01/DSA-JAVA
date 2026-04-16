@@ -5,12 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdae7e35-5a6a-48df-8936-5304d55ae031" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY010/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY011_PATTERN/Butterfly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY011_PATTERN/Diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY011_PATTERN/HalfPyramidNUM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY011_PATTERN/HalfPyramidWithChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY011_PATTERN/HalfPyramidWithCharFromLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY011_PATTERN/HalfPyramidWithConunter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY011_PATTERN/HollowDiamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY011_PATTERN/HollowHalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY011_PATTERN/HollowRectangular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY011_PATTERN/HollowSolidPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY011_PATTERN/InvertedHalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY011_PATTERN/InvertedHalfPyramidCHAR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY011_PATTERN/ReverseSolidPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY011_PATTERN/SolidAndInvertedPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY011_PATTERN/SolidPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY011_PATTERN/SolidPyramidAlternativeNUM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY011_PATTERN/SolidPyramidCHAR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY011_PATTERN/SolidPyramidNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY011_PATTERN/SolidRhombus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY011_PATTERN/SolidRightAngle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY011_PATTERN/SolidSqure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,12 +53,38 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3Bd5M66rmOaNt8IGgMRWFcFHlVJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Butterfly.executor": "Run",
+    "Application.Diamond.executor": "Run",
+    "Application.HalfPyramidNUM.executor": "Run",
+    "Application.HalfPyramidWithChar.executor": "Run",
+    "Application.HalfPyramidWithCharFromLast.executor": "Run",
+    "Application.HalfPyramidWithConunter.executor": "Run",
+    "Application.HollowDiamond.executor": "Run",
+    "Application.HollowHalfPyramid.executor": "Run",
+    "Application.HollowRectangular.executor": "Run",
+    "Application.HollowSolidPyramid.executor": "Run",
+    "Application.InvertedHalfPyramid.executor": "Run",
+    "Application.InvertedHalfPyramidCHAR.executor": "Run",
+    "Application.ReverseSolidPyramid.executor": "Run",
+    "Application.SolidAndInvertedPyramid.executor": "Run",
+    "Application.SolidPyramid.executor": "Run",
+    "Application.SolidPyramidAlternativeNUM.executor": "Run",
+    "Application.SolidPyramidCHAR.executor": "Run",
+    "Application.SolidPyramidNUM.executor": "Run",
+    "Application.SolidPyramidNum.executor": "Run",
+    "Application.SolidRhombus.executor": "Run",
+    "Application.SolidRightAngle.executor": "Run",
+    "Application.SolidSqure.executor": "Run",
+    "Application.main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -38,7 +97,8 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "actions.on.save"
   }
 }]]></component>
   <component name="TaskManager">
