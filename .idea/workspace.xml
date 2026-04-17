@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdae7e35-5a6a-48df-8936-5304d55ae031" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DSA/src/DAY012_Methos/Methos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/src/DAY013_Array/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY013_Array/FindMaxOutOf2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY013_Array/FindMaxOutOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY013_Array/FindMinOutOf2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY013_Array/FindMinOutOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY013_Array/SumOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/DAY013_Array/TwoDimensionalArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA/src/DAY013_Array/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/src/DAY013_Array/Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +47,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Array.executor": "Run",
     "Application.Butterfly.executor": "Run",
     "Application.Diamond.executor": "Run",
+    "Application.FindMaxOutOf2DArray.executor": "Run",
+    "Application.FindMaxOutOfArray.executor": "Run",
+    "Application.FindMinOutOf2DArray.executor": "Run",
+    "Application.FindMinOutOfArray.executor": "Run",
     "Application.HalfPyramidNUM.executor": "Run",
     "Application.HalfPyramidWithChar.executor": "Run",
     "Application.HalfPyramidWithCharFromLast.executor": "Run",
@@ -64,6 +75,8 @@
     "Application.SolidRhombus.executor": "Run",
     "Application.SolidRightAngle.executor": "Run",
     "Application.SolidSqure.executor": "Run",
+    "Application.SumOfArray.executor": "Run",
+    "Application.TwoDimensionalArray.executor": "Run",
     "Application.main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -78,7 +91,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "actions.on.save"
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="TaskManager">
